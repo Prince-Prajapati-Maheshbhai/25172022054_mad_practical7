@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">25012012012_Practical7</string>
+    <string name="title_practical">25012012012_Practical7</string>
+    <string name="person_deleted">Record deleted from SQLite database</string>
+    <string name="empty_message">No person records found. Tap refresh to load from API.</string>
+    <string name="refresh_from_api">Refresh from API</string>
+</resources>
